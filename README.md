@@ -19,7 +19,7 @@ As it uses `"driver/adc.h" & "driver/dac.h"` from the ESP32 Drivers
 ## Description
 
 This is a 12 bit real time audio processor taking in the RAW values of an auido input. <br>
-The fixed volume in `esp_Audio_Process.cpp` is `**128**` the max is `**255**`.
+The fixed volume in `esp_Audio_Process.cpp` is **128**. The max value is **255**.
 Adjust this in accordance to the volume of the audio in.   
 
 ## Setup
