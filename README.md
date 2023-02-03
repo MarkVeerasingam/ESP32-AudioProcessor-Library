@@ -4,17 +4,21 @@
 Last Updated: 3/2/23
 ``
 
-## Description
+## About
 
 This is a simple WIP real-time audio processor library for the ESP32. Apart of my 2nd year IOT Project, designing an IOT Guitar Pedal.
 This is the fundemental piece of Real-Time audio DSP i'm using.
 
 ``Note: This was designed using the Arduino IDE & has only optimised with it specifically in mind``
 
-If you wish to use this library you must download the `DOIT ESP32 DEVKIT V1` as your board in the IDE. 
-It uses `"driver/adc.h" & "driver/dac.h"` from the ESP32 Drivers
 
->It is a 12 bit real time audio processor taking in the RAW values of an auido input. <br>
+If you wish to use this library you must download the `DOIT ESP32 DEVKIT V1` as your board in the IDE. 
+As it uses `"driver/adc.h" & "driver/dac.h"` from the ESP32 Drivers
+>If you wish to download the DEVKIT board you can do it [here](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+
+## Description
+
+This is a 12 bit real time audio processor taking in the RAW values of an auido input. <br>
 The fixed volume in `esp_Audio_Process.cpp` is `**128**` the max is `**255**`.
 Adjust this in accordance to the volume of the audio in.   
 
