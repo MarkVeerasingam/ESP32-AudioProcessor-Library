@@ -9,7 +9,7 @@ Last Updated: 3/2/23
 This is a simple WIP real-time audio processor library for the ESP32. Apart of my 2nd year IOT Project, designing an IOT Guitar Pedal.
 This is the fundemental piece of Real-Time audio DSP i'm using.
 
-``Note: This was designed using the Arduino IDE & has only optimised with it specifically in mind``
+``Note: This was designed using the Arduino IDE & has only been optimised with it specifically in mind``
 
 
 If you wish to use this library you must download the `DOIT ESP32 DEVKIT V1` as your board in the IDE. 
