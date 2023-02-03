@@ -50,9 +50,9 @@ void loop() {
 ```
 
 ## Roadmap
->Make Audio In/Out Relativley clear
->Add a LP & HP filter
->Make a circular buffer delay & reverb 
+>Make Audio In/Out Relativley clear <br>
+>Add a LP & HP filter <br>
+>Make a circular buffer delay & reverb <br>
 
 ## Contributing
 
