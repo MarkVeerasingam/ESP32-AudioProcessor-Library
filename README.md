@@ -11,7 +11,7 @@ This is the fundemental piece of Real-Time audio DSP i'm using.
 
 ``Note: This was designed using the Arduino IDE & has only optimised with it specifically in mind``
 
-If you wish to use this library you must have the `DOIT ESP32 DEVKIT V1` as your board in the IDE. 
+If you wish to use this library you must download the `DOIT ESP32 DEVKIT V1` as your board in the IDE. 
 It uses `"driver/adc.h" & "driver/dac.h"` from the ESP32 Drivers
 
 >It is a 12 bit real time audio processor taking in the RAW values of an auido input. <br>
