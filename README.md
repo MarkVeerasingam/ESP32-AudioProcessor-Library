@@ -2,8 +2,8 @@
 
 ## Description
 
-This is a simple WIP real-time audio processor library for the ESP32. Apart of my 2nd year IOT Project, designing an IOT Guitar Pedal & this is the fundemental
-piece of Real-Time audio DSP i'm using.
+This is a simple WIP real-time audio processor library for the ESP32. Apart of my 2nd year IOT Project, designing an IOT Guitar Pedal.
+This is the fundemental piece of Real-Time audio DSP i'm using.
 
 ``Note: This was designed using the Arduino IDE & has only optimised with it specifically in mind``
 
