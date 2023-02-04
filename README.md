@@ -59,7 +59,7 @@ Analog to Digital Converter - ESP32 (espressif): https://docs.espressif.com/proj
 
 ## Roadmap
 >Make Audio In/Out Relativley clear <br>
->>implement I2S <br>
+>implement I2S <br>
 >Add a LP & HP filter <br>
 >Make a circular buffer delay & reverb <br>
 
