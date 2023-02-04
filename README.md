@@ -23,8 +23,8 @@ The fixed volume in `esp_Audio_Process.cpp` is **128**. The max value is **255**
 Adjust this in accordance to the volume of the audio in.   
 
 ## Setup
->On the ESP32
->>###### Note that the ESP32 ADC max Vin is 3.3V
+__On the ESP32__
+>###### Note that the ESP32 ADC max Vin is 3.3V
 
 ``Connect Audio in (Positive)`` to __ADC Pin 0 (Pin VP)__  <br>
 ``Connect Audio in (Negeative)`` to __Ground Pin__ 
@@ -32,6 +32,11 @@ Adjust this in accordance to the volume of the audio in.
 ``Connect Audio out (Positive)`` to __DAC Pin 1 (Pin 25)__  <br>
 ``Connect Audio out (Negeative)`` to __Ground Pin__ 
 
+__On the Arduino IDE__
+
+``
+Download the ZIP or Clone to the Arduino Library Folder
+``
 
 ## Usage
 
