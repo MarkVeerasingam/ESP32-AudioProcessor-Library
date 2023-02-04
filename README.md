@@ -48,6 +48,9 @@ void loop() {
   processaudio.playAudio();
 }
 ```
+## References
+ESP32 library for Arduino: https://github.com/espressif/arduino-esp32 <br>
+Analog to Digital Converter - ESP32 (espressif): https://docs.espressif.com/projects/esp-idf/en/v4.2/esp32/api-reference/peripherals/adc.html#:~:text=The%20ESP32%20integrates%20two%2012,15%20and%2025%20%2D%2027). <br>
 
 ## Roadmap
 >Make Audio In/Out Relativley clear <br>
